@@ -4,7 +4,7 @@ As a contributor, make sure that you broaden the scope of this repo by introduci
 
 If you are a first time contributor, it is always good to submit your first PR [here](https://github.com/firstcontributions/first-contributions)
 
-and onnce you've gotten a hang of it just:
+and once you've gotten a hang of it just:
 
 1. Fork
 2. Edit/Create
